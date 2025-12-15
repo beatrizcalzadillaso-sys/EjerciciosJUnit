@@ -8,7 +8,8 @@ public class TablaEnterosTest {
 
 	@Test
 	public void testSumaTabla() {
-		fail("Not yet implemented");
+		tabla test= new tabla[] {12,20,30};
+		
 	}
 
 	@Test
